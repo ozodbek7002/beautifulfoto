@@ -1,0 +1,584 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.karobka{
+    width: 100vw;
+    height: 100vh;
+}
+#png{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: inline-block;
+}
+.text{
+    position: absolute;
+    font-size: 50pt;
+    color: blueviolet;
+    margin: 2% 5%;
+    display: inline-block;
+}
+.karobka_2{
+    position: absolute;
+    width: 20%;
+    height: 8%;
+    background-color: rgb(0, 153, 255);
+    margin: 3.5% 75%;
+    display: inline-block;
+}
+.text_8{
+    font-size: 18pt;
+    margin: 4% 7%;
+    color: white;
+}
+.text_2{
+    position: absolute;
+    font-size: 20pt;
+    color: red;
+    margin: 4% 25%;
+}
+.text_3{
+    position: absolute;
+    font-size: 20pt;
+    color: blue;
+    margin: 4% 33%;
+}
+.text_4{
+    position: absolute;
+    font-size: 20pt;
+    color: green;
+    margin: 4% 40%;
+}
+.text_5{
+    position: absolute;
+    font-size: 20pt;
+    color: red;
+    margin: 4% 50%;
+}
+.text_6{
+    position: absolute;
+    font-size: 20pt;
+    color: yellow;
+    margin: 4% 56%;
+}
+.text_7{
+    position: absolute;
+    font-size: 20pt;
+    color: rgb(69, 15, 230);
+    margin: 4% 63%;
+}
+.text_9{
+    position: absolute;
+    font-size: 30pt;
+    color: black;
+    margin: 14% 35%;
+}
+.text_10{
+    position: absolute;
+    font-size: 68pt;
+    color: black;
+    margin: 18% 18%;
+}
+.text_11{
+    position: absolute;
+    font-size: 68pt;
+    color: black;
+    margin: 25% 27%;
+}
+.karobka_3{
+    width: 18%;
+    height: 11%;
+    background-color: rgb(0, 153, 255);
+    position: absolute;
+    margin: 40% 30%;
+}
+.karobka_4{
+    width: 18%;
+    height: 11%;
+    background-color: gray;
+    position: absolute;
+    margin: 40% 51%;
+}
+.text_12{
+    position: absolute;
+    font-size: 20pt;
+    margin: 8% 24%;
+    color: white;
+}
+.text_13{
+    position: absolute;
+    font-size: 20pt;
+    margin: 8% 24%;
+    color: white;
+}
+.katta_karobka{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    margin-top: 49%;
+}
+#png_2{
+    width: 32%;
+    height: 80%;
+    margin: 5% 58%;
+}
+.text_14{
+    position: absolute;
+    font-size: 25pt;
+    margin: -46% 8%;
+    color: rgb(0, 81, 255);
+}
+.text_15{
+    position: absolute;
+    font-size: 40pt;
+    margin: -42% 8%;
+    color: rgb(0, 0, 33);
+}
+.text_16{
+    position: absolute;
+    font-size: 40pt;
+    margin: -37% 8%;
+    color: rgb(0, 0, 33);
+}
+.text_17{
+    position: absolute;
+    margin: -26% 9%;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+}
+.text_18{
+    position: absolute;
+    margin: -24% 9%;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+}
+.text_19{
+    position: absolute;
+    margin: -22% 9%;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+}
+.text_20{
+    position: absolute;
+    margin: -20% 9%;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+}
+.text_21{
+    position: absolute;
+    margin: -18% 9%;
+    font-size: 15pt;
+    color:  rgb(0, 0, 33);
+}
+.text_22{
+    position: absolute;
+    margin: -13% 9%;
+    font-size: 25pt;
+    color: rgb(0, 0, 33);
+}
+.text_23{
+    position: absolute;
+    margin: -9% 9%;
+    font-size: 25pt;
+    color: rgb(0, 0, 33);
+}
+.text_24{
+    position: absolute;
+    margin: -13% 35%;
+    font-size: 25pt;
+    color: rgb(0, 0, 33);
+}
+.text_25{
+    position: absolute;
+    margin: -9% 35%;
+    font-size: 25pt;
+    color: rgb(0, 0, 33);
+}
+.katta_karobka_2{
+    width: 100vw;
+    height: 100vh;
+    margin-top: 50%;
+}
+#png_8{
+    margin: 20% 35%;
+    width: 30%;
+    height: 80%;
+}
+.katta_karobka_3{
+    width: 100vw;
+    height: 100vh;
+}
+.text_26{
+    position: absolute;
+    font-size: 25pt;
+    color: rgb(0, 128, 255);
+    margin: 2% 40%;
+}
+.text_27{
+    position: absolute;
+    font-size: 40pt;
+    color: rgb(0, 0, 33);
+    margin: 6% 27%;
+}
+.text_28{
+    position: absolute;
+    font-size: 40pt;
+    color: rgb(0, 0, 33);
+    margin: 11% 30%;
+}
+.text_29{
+    position: absolute;
+    font-size: 30pt;
+    margin: -55% 5%;
+    color: rgb(0, 0, 33);
+}
+.text_30{
+    position: absolute;
+    font-size: 15pt;
+    margin: -50% 5%;
+    color: rgb(0, 0, 33);
+}
+.text_31{
+    position: absolute;
+    font-size: 15pt;
+    margin: -48% 5%;
+    color: rgb(0, 0, 33);
+}
+.text_32{
+    position: absolute;
+    font-size: 30pt;
+    margin: -36% 5%;
+    color: rgb(0, 0, 33);
+}
+.text_33{
+    position: absolute;
+    font-size: 15pt;
+    margin: -31% 5%;
+    color:  rgb(0, 0, 33);
+}
+.text_34{
+    position: absolute;
+    font-size: 15pt;
+    margin: -29% 5%;
+    color:  rgb(0, 0, 33);
+}
+.text_35{
+    position: absolute;
+    font-size: 30pt;
+    margin: -57% 73%;
+    color:  rgb(0, 0, 33);
+}
+.text_36{
+    position: absolute;
+    font-size: 15pt;
+    margin: -49% 73%;
+    color:  rgb(0, 0, 33);
+}
+.text_37{
+    position: absolute;
+    font-size: 15pt;
+    margin: -49% 85%;
+    color:  rgb(0, 0, 33);
+}
+.text_38{
+    position: absolute;
+    font-size: 15pt;
+    margin: -47% 73%;
+    color:  rgb(0, 0, 33);
+}
+.text_39{
+    position: absolute;
+    font-size: 15pt;
+    margin: -47% 85%;
+    color:  rgb(0, 0, 33);
+}
+.text_40{
+    position: absolute;
+    font-size: 30pt;
+    margin: -35% 73%;
+    color:  rgb(0, 0, 33);
+}
+.text_41{
+    position: absolute;
+    font-size: 30pt;
+    margin: -35% 79%;
+    color: rgb(0, 0, 33);
+}
+.text_42{
+    position: absolute;
+    font-size: 15pt;
+    margin: -30% 73%;
+    color: rgb(0, 0, 33);
+}
+.text_43{
+    position: absolute;font-size: 15pt;
+    margin: -30% 85%;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+}
+.text_44{
+    position: absolute;
+    margin: -28% 73%;
+    font-size: 15pt;
+    color:  rgb(0, 0, 33);
+}
+.text_45{
+    position: absolute;
+    margin: -28% 85%;
+    font-size: 15pt;
+    color:  rgb(0, 0, 33);
+}
+.text_46{
+    position: absolute;
+    font-size: 25pt;
+    margin: -5% 43%;
+    color: aqua;
+}
+.text_47{
+    position: absolute;
+    font-size: 40pt;
+    margin: -1% 26%;
+    color: rgb(0, 0, 33);
+}
+.text_48{
+    position: absolute;
+    font-size: 40pt;
+    margin: 4% 33%;
+    color: rgb(0, 0, 33);
+}
+.katta_karobka_4{
+    width: 100vw;
+    height: 100vh;
+}
+#png_5{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    margin-left: 15%;
+}
+#png_6{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    margin-left: 45%;
+}
+#png_7{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    margin-left: 75%;
+}
+.menu_3{
+    position: absolute;
+    font-size: 30pt;
+    color:  rgb(0, 0, 33);
+    margin: 12% 11%;
+}
+.menu_4{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 17% 9%;
+}
+.menu_5{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 19% 13%;
+}
+.menu_6{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 21% 9%;
+}
+.menu_7{
+    position: absolute;
+    font-size: 30pt;
+    color:  rgb(0, 0, 33);
+    margin: 12% 40%;
+}
+.menu_8{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 17% 37%;
+}
+.menu_9{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 19% 41%;
+}
+.menu_10{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 21% 38%;
+}
+.menu_11{
+    position: absolute;
+    font-size: 30pt;
+    color: rgb(0, 0, 33);
+    margin: 12% 69%;
+}
+.menu_12{
+    position: absolute;
+    font-size: 30pt;
+    color: rgb(0, 0, 33);
+    margin: 12% 76%;
+}
+.menu_13{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 17% 68%;
+}
+.menu_14{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 17% 82%;
+}
+.menu_15{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 19% 72%;
+}
+.menu_16{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 19% 82%;
+}
+.menu_17{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 21% 70%;
+}
+.menu_18{
+    position: absolute;
+    font-size: 15pt;
+    color: rgb(0, 0, 33);
+    margin: 21% 81%;
+}
+#png_9{
+    width: 10%;
+    height: 20%;
+    margin: 30% 14.5%;
+}
+.katta_karobka_5{
+    width: 100vw;
+    height: 100vh;
+}
+#png_10{
+    width: 15%;
+    height: 20%;
+    margin: 30% 2%;
+}
+.box_10{
+    position: absolute;
+    width: 25%;
+    height: 75%;
+    background-color: rgb(41, 178, 251);
+    margin: -41% 68%;
+}
+.menu_19{
+    position: absolute;
+    font-size: 30pt;
+    margin: 20% 20%;
+    color: white;
+}
+.menu_20{
+    position: absolute;
+    font-size: 30pt;
+    margin: 35% 35%;
+    color: white;
+}
+.menu_21{
+    position: absolute;
+    font-size: 15pt;
+    margin: 60% 15%;
+    color: white;
+}
+.menu_22{
+    position: absolute;
+    font-size: 15pt;
+    margin: 68% 20%;
+    color: white;
+}
+.menu_23{
+    position: absolute;
+    font-size: 15pt;
+    margin: 76% 10%;
+    color: white;
+}
+.menu_24{
+    position: absolute;
+    font-size: 15pt;
+    margin: 85% 20%;
+    color: white;
+}
+.menu_25{
+    position: absolute;
+    font-size: 30pt;
+    margin: 98% 25%;
+    color: white;
+}
+.menu_26{
+    position: absolute;
+    font-size: 30pt;
+    margin: -28% 16%;
+    color: rgb(0, 0, 33);
+}
+.menu_27{
+    position: absolute;
+    font-size: 30pt;
+    margin: -24% 12%;
+    color: rgb(0, 0, 33);
+}
+.menu_28{
+    position: absolute;
+    font-size: 15pt;
+    margin: -19% 8%;
+    color: rgb(0, 0, 33);
+}
+.menu_29{
+    position: absolute;
+    font-size: 15pt;
+    margin: -17% 11%;
+    color: rgb(0, 0, 33);
+}
+.menu_30{
+    position: absolute;
+    font-size: 15pt;
+    margin: -15% 9%;
+    color: rgb(0, 0, 33);
+}
+.menu_34{
+    position: absolute;
+    font-size: 30pt;
+    margin: -27% 39%;
+    color: rgb(0, 0, 33);
+}
+.menu_31{
+    position: absolute;
+    font-size: 15pt;
+    margin: -22% 37.5%;
+    color: rgb(0, 0, 33);
+}
+.menu_32{
+    position: absolute;
+    font-size: 15pt;
+    margin: -20% 41%;
+    color: rgb(0, 0, 33);
+}
+.menu_33{
+    position: absolute;
+    font-size: 15pt;
+    margin: -18% 37%;
+    color: rgb(0, 0, 33);
+}
